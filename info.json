@@ -32,5 +32,18 @@
     "MacAddress(es)": [
       "00-0C-29-9A-30-6F"
     ]
+  },
+  {
+    "VirtualMachine": "False",
+    "FirstRun": "2025-06-27 09:11:00.201059",
+    "UsingVPN": "True",
+    "TimeZone": "Etc/UTC",
+    "hardwareID": "11111111-1111-1111-1111-111111111111",
+    "IpAddress(es)V4": [
+      "138.199.28.251"
+    ],
+    "MacAddress(es)": [
+      "CA-DC-1D-91-EB-3B"
+    ]
   }
 ]
