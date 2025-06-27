@@ -19,5 +19,18 @@
       "00-50-56-C0-00-08",
       "02-D0-BF-36-62-44"
     ]
+  },
+  {
+    "VirtualMachine": "True",
+    "FirstRun": "2025-06-27 02:07:23.113020",
+    "UsingVPN": "True",
+    "TimeZone": "America/Los_Angeles",
+    "hardwareID": "507C4D56-1064-9DD6-3D86-2A57E49A306F",
+    "IpAddress(es)V4": [
+      "178.249.214.5"
+    ],
+    "MacAddress(es)": [
+      "00-0C-29-9A-30-6F"
+    ]
   }
 ]
