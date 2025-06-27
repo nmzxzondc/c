@@ -1,1 +1,14 @@
-
+[
+  {
+    "FirstRun": "2025-06-27 01:30:55.994846",
+    "UsingVPN": "True",
+    "TimeZone": "America/Los_Angeles",
+    "hardwareID": "507C4D56-1064-9DD6-3D86-2A57E49A306F",
+    "IpAddress(es)V4": [
+      "149.22.81.210"
+    ],
+    "MacAddress(es)": [
+      "00-0C-29-9A-30-6F"
+    ]
+  }
+]
